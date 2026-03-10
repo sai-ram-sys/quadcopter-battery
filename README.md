@@ -21,13 +21,14 @@ This project delivers a complete engineering design and optimization of a **LiPo
 
 ## 👥 Team Members
 
-| S.No. | Name | Register Number | Contribution |
-|---|---|---|---|
-| 1 | Member 1 – [Name] | REG/001 | Voltage design, Series/Parallel config, System requirements |
-| 2 | Member 2 – [Name] | REG/002 | Capacity calculations, Flight endurance analysis |
-| 3 | Member 3 – [Name] | REG/003 | Thermal management, Safety protocols, BMS design |
-| 4 | Member 4 – [Name] | REG/004 | Trade-off analysis, Chemistry comparison |
-| 5 | Member 5 – [Name] | REG/005 | Simulation code, Documentation, BOM |
+| S.No. | Name           | Register Number | Contribution                                                       |
+| ----- | -------------- | --------------- | ------------------------------------------------------------------ |
+| 1     | Yazhini C      | 2362542         | Voltage design, Series/Parallel configuration, System requirements |
+| 2     | Prashanth G    | 2362539         | Capacity calculations, Flight endurance analysis                   |
+| 3     | Jotharsh D     | 2362543         | Thermal management, Safety protocols, BMS design                   |
+| 4     | Deepanjan Saha | 2362545         | Trade-off analysis, Battery chemistry comparison                   |
+| 5     | Sairam R Nair  | 2362544         | Simulation code, Documentation, Bill of Materials (BOM)            |
+
 
 ---
 
